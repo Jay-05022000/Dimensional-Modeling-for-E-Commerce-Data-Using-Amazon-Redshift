@@ -7,7 +7,7 @@ The purpose of this project is to perform dimensional modeling for the popular â
 
 Dataset:
 
-You can find the dataset used for this project here: Instacart Market Basket Analysis.
+You can find the dataset used for this project here: https://www.kaggle.com/c/instacart-market-basket-analysis
 
 
 Technical Stack:
